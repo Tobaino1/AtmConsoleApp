@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\bin\Debug\AcademicinHelpAtm.exe.config
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\bin\Debug\AcademicinHelpAtm.exe
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\bin\Debug\AcademicinHelpAtm.pdb
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\obj\Debug\AcademicinHelpAtm.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\obj\Debug\AcademicinHelpAtm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\obj\Debug\AcademicinHelpAtm.exe
+C:\Users\hp\source\repos\AcademicinHelpAtm\AcademicinHelpAtm\obj\Debug\AcademicinHelpAtm.pdb
